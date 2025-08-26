@@ -20,3 +20,5 @@ plt.ylabel('Altura(metros)')
 plt.xlabel('Tiempo transcurrido(segundos)')
 plt.legend()
 plt.show()
+
+print("hola")
